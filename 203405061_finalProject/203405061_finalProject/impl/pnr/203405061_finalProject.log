@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\gwsynthesis\203405061_finalProject.vg"
+Parsing netlist file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\gwsynthesis\203405061_finalProject.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\src\203405061_finalProject.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\pnr\203405061_finalProject.power.html" completed
+Generate file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\pnr\203405061_finalProject.pin.html" completed
+Generate file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\pnr\203405061_finalProject.rpt.html" completed
+Generate file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\pnr\203405061_finalProject.rpt.txt" completed
+Generate file "C:\Users\CANBICH\Desktop\203405061_finalProject\203405061_finalProject\impl\pnr\203405061_finalProject.tr.html" completed
+Mon May 29 01:39:13 2023
+
